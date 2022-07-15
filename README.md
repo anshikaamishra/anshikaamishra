@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaamishra&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaamishra" /> </p>
 
-- 🔭 I’m currently working on **Blogging Website**
+- 🔭 I’m currently looking for **full - time permanent developer job**
 
 - 🌱 I’m currently learning **React Native, C#, C++**
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshikaamishra&show_icons=true&locale=en" alt="anshikaamishra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikaamishra&" alt="anshikaamishra" /></p>
-
