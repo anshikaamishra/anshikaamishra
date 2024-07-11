@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikaamishra&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaamishra" /> </p>
 
-- 🔭 I’m currently looking for **full - time permanent developer job**
-
-- 🌱 I’m currently learning **React Native, C#, C++**
+- 🌱 I’m currently learning **React.js, Node.js, Machine Learning**
 
 - 📫 How to reach me **anshikam032@gmail.com**
 
